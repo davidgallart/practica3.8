@@ -1,0 +1,36 @@
+
+div.carta{
+    position: relative;
+ top: 10px;
+}
+
+div.cafe{
+    position: relative;
+    top: 230px;
+    left: 750px;
+
+}
+
+div.contacto{
+    position: relative;
+    top: 500px;
+    right: -1500px;
+
+}
+
+p.text{
+    color: brown;
+}
+
+h1.titulo{
+    text-align:center;
+    font-weight: bold;
+    color: darkred;
+}
+body.body{
+    background-color: bisque;
+}
+span.neg{
+    font-weight: bold; 
+    color: darkred;
+}
